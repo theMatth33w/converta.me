@@ -1,0 +1,14 @@
+{
+  "name": "site-converta.me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Matheus Ibrahim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
